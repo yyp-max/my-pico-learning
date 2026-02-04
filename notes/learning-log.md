@@ -7,5 +7,5 @@
 
 ## 日志记录
 | 日期 | 学习内容 | 耗时 | 状态 |
-|2026/2/3/|学习了关于C语言中的常量相关的内容，包括了他的作用域、生命周期、分类以及字符串|约2小时|良好|
+|2026/2/3/|I studied content related to constants in the C language\including their scope、lifecycle、string、and classification.|about two hours|good|
 |2026/2/4/| | | |
