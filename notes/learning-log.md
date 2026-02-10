@@ -8,4 +8,4 @@
 ## 日志记录
 | 日期 | 学习内容 | 耗时 | 状态 |
 |2026/2/3/|I studied content related to constants in the C language\including their scope、lifecycle、string、and classification.|about two hours|good|
-|2026/2/4/| | | |
+|2026/2/10/|I studied content realted to constants in the C language\includeing their escape character  | | |
